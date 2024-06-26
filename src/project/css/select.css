@@ -1,0 +1,30 @@
+input,textarea,select {
+    background-color: white;
+    border: thin solid #030657;
+    border-radius: 4px;
+    display: inline-block;
+    font: inherit;
+    line-height: 1.5em;
+    padding: 0.5em 0.5em 0.5em 1em;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.sort_option {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+
+.sort {
+    width: 200px;
+}
+
+li {
+    margin: 5px;
+}

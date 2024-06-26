@@ -1,0 +1,14 @@
+.card {
+    border: black 3px solid;
+    border-radius: 10px;
+    height: 450px;
+    width: 20%;
+    margin: 3px;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

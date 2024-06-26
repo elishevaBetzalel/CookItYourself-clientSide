@@ -1,0 +1,14 @@
+.hlink,.plink{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    align-items: start;
+    justify-content: right;
+    margin-top: 3px;
+}
+.co{
+    background: #1d0cb1;
+
+    background: linear-gradient(to bottom, yellow, rgb(1, 248, 1), rgb(3, 197, 3), green);
+
+}
